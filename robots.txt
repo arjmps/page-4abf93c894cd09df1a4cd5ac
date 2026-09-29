@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.rhlhrp.cn/sitemap.xml
